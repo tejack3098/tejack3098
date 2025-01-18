@@ -27,16 +27,16 @@ My passion for software development began early, and through my experience, I’
 
 ## 📊 GitHub Stats
 
-![Tejas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&theme=radical)
+![Tejas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tejack3098&show_icons=true&count_private=true&theme=radical)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tejack3098&theme=radical)
 
 ---
 
 ## 🏅 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&langs_count=10&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tejack3098&layout=compact&langs_count=10&theme=radical)
