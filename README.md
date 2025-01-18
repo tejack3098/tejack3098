@@ -40,3 +40,9 @@ My passion for software development began early, and through my experience, I’
 ## 🏅 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tejack3098&layout=compact&langs_count=10&theme=radical)
+
+---
+
+## 👀 Profile Visits
+
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=blue&style=flat)
