@@ -45,4 +45,4 @@ My passion for software development began early, and through my experience, I’
 
 ## 👀 Profile Visits
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=tejack3098&label=Profile%20Views&color=blue&style=flat)
