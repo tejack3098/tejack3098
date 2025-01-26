@@ -1,6 +1,6 @@
 # Hi, I'm Tejas Hemant Choudhari! 👋
 
-**Software Engineer | Cloud Developer | Problem Solver**
+**Software Engineer | Full Stack Developer | Problem Solver**
 
 I'm a software engineer with over **3 years of experience** specializing in **cloud-native development**, **microservices**, and **CI/CD** pipelines. I have a strong foundation in **C#**, **.NET Core**, and **Microsoft Azure**, and I’m passionate about building scalable, efficient, and secure applications. My journey has allowed me to work on a variety of projects, from backend APIs to cloud infrastructure, and I'm always excited to tackle complex problems with innovative solutions.
 
